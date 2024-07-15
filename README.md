@@ -70,6 +70,6 @@ Default web root:
 ```
 /usr/share/nginx/html
 ```
-making a new edit
+finally worked!
 
 ## If you require permission to GCP or Gitlab resources, please talk to dare@propitix.com
